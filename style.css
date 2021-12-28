@@ -21,7 +21,7 @@ body{
 
 /* Tree Styling and positioning */
 .tree {
-    height: 5vh;
+    height: 4vh;
     background-image: url(tree.png);
     background-repeat:no-repeat;
     background-size: cover;
